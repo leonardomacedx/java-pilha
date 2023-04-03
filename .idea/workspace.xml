@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f193a261-4833-4b86-974b-fc7e7f11f3cc" name="Changes" comment="Iniciando repositório">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fluxo.java" afterDir="false" />
+    <list default="true" id="f193a261-4833-4b86-974b-fc7e7f11f3cc" name="Changes" comment="Ultimo commit teste">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fluxo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pathVariables",
+    "settings.editor.selected.configurable": "Settings.JavaScript",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680530622684</updated>
-      <workItem from="1680530623757" duration="1687000" />
+      <workItem from="1680530623757" duration="6558000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciando repositório">
       <created>1680530862700</created>
@@ -62,26 +61,50 @@
       <option name="project" value="LOCAL" />
       <updated>1680530862700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualizando repositório">
+      <created>1680532555414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680532555414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Atualizando repositório novamente">
+      <created>1680532617217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680532617217</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ultimo commit teste">
+      <created>1680532656518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680532656518</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando repositório" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando repositório" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Fluxo.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Atualizando repositório" />
+    <MESSAGE value="Atualizando repositório novamente" />
+    <MESSAGE value="Ultimo commit teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimo commit teste" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
