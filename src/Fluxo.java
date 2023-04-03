@@ -18,8 +18,5 @@ public class Fluxo {
             System.out.println(i);
         }
         System.out.println("Fim do metodo2");
-        System.out.println("Fim do metodo2");
-        System.out.println("Fim do metodo2");
-        System.out.println("Fim do metodo2");
     }
 }
