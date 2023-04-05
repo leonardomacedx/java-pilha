@@ -20,7 +20,7 @@ public class FluxoError {
 
     private static void metodo2() {
         System.out.println("Ini do metodo2 ");
-        metodo2();
+        //metodo2();
         System.out.println("Fim do metodo 2");
     }
 }
