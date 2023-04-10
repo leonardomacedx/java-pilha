@@ -11,14 +11,10 @@ public class TesteConexao {
 
         //------------------------
 
-//        Conexao con = null;
-//        try {
-//            con = new Conexao();
-//            con.leDados();
-//        } catch (IllegalStateException exception) {
-//            System.out.println("Deu erro na conexão!");
-//        } finally {
-//            con.close();
-//        }
+        try (Conexao con = new Conexao()) {
+            con.leDados();
+        } catch (IllegalStateException exception) {
+            System.out.println("Deu erro na conexão!");
+        }
     }
 }

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f193a261-4833-4b86-974b-fc7e7f11f3cc" name="Changes" comment="exceções checked e unchecked">
-      <change afterPath="$PROJECT_DIR$/src/Conexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteConexao.java" afterDir="false" />
+    <list default="true" id="f193a261-4833-4b86-974b-fc7e7f11f3cc" name="Changes" comment="Final do curso de tratamento de exceções">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteConexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteConexao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,9 @@
       <workItem from="1680703364165" duration="2081000" />
       <workItem from="1680726042885" duration="881000" />
       <workItem from="1680728381108" duration="3000" />
-      <workItem from="1680730602259" duration="2126000" />
+      <workItem from="1680730602259" duration="2385000" />
+      <workItem from="1681086506357" duration="7000" />
+      <workItem from="1681132980470" duration="2080000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciando repositório">
       <created>1680530862700</created>
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680727802888</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final do curso de tratamento de exceções">
+      <created>1680733385608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680733385608</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +156,8 @@
     <MESSAGE value="Ultimo commit teste" />
     <MESSAGE value="throw exceções" />
     <MESSAGE value="exceções checked e unchecked" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceções checked e unchecked" />
+    <MESSAGE value="Final do curso de tratamento de exceções" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final do curso de tratamento de exceções" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
